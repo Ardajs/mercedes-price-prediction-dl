@@ -3,7 +3,7 @@ Mercedes car price prediction using Deep Learning regression models built with T
 
 Mercedes Price Prediction (Deep Learning)
 
-Project Overview
+## Project Overview
 This project focuses on predicting Mercedes car prices using Deep Learning regression models built with TensorFlow and Keras. The model is trained on real-world automotive market data and demonstrates a complete Machine Learning pipeline from data preprocessing to model prediction.
 This repository is designed as an end-to-end Deep Learning project for tabular data price prediction.
 
@@ -61,7 +61,7 @@ Scikit-Learn
 
 TensorFlow / Keras
 
-Project Structure
+# Project Structure
 
 mercedes-price-prediction-dl/
 data/ → merc.xlsx
@@ -74,16 +74,16 @@ README.md
 Installation
 
 Clone Repository
-git clone https:
+git clone https: https://github.com/Ardajs/mercedes-price-prediction-dl
 
 cd mercedes-price-prediction-dl
 
-## Install Dependencies
+# Install Dependencies
 pip install -r requirements.txt
 
 Usage
 
-## Run Jupyter Notebook
+# Run Jupyter Notebook
 jupyter notebook
 
 ## Then open:
@@ -107,10 +107,10 @@ Model Evaluation
 
 Price Prediction
 
-## Example Use Case
+# Example Use Case
 The model can estimate the price of a vehicle using engine size, mileage, fuel efficiency, tax value, and vehicle production year.
 
-## Future Improvements
+# Future Improvements
 
 FastAPI Model Serving
 
@@ -122,7 +122,7 @@ Model Versioning (MLflow)
 
 Hyperparameter Optimization
 
-## Learning Outcomes
+# Learning Outcomes
 
 Deep Learning for Tabular Data
 
