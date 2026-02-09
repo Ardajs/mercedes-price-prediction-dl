@@ -71,22 +71,22 @@ requirements.txt
 README.md
 .gitignore
 
-Installation
+## Installation
 
 Clone Repository
 git clone https: https://github.com/Ardajs/mercedes-price-prediction-dl
 
 cd mercedes-price-prediction-dl
 
-# Install Dependencies
+Install Dependencies
 pip install -r requirements.txt
 
-Usage
+# Usage
 
-# Run Jupyter Notebook
+Run Jupyter Notebook
 jupyter notebook
 
-## Then open:
+Then open:
 notebooks/main.ipynb
 
 ## Model Workflow
@@ -134,7 +134,7 @@ Neural Network Training Workflow
 
 Real Dataset ML Pipeline Design
 
-Author
+# Author
 Developed as part of Machine Learning and AI portfolio projects.
 
 
