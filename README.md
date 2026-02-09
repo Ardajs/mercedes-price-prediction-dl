@@ -74,7 +74,7 @@ README.md
 Installation
 
 Clone Repository
-git clone https://github.com/username/mercedes-price-prediction-dl.git
+git clone https:
 
 cd mercedes-price-prediction-dl
 
